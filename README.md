@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maryam Zafar</h1>
 <h3 align="center">Computer Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 📫 How to reach me **https://www.linkedin.com/in/maryam-zafar-34b47b238**
 
